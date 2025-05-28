@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">مزاج الغيوم</string>
+    <string name="title_activity_home">النشاط الرئيسي</string>
+    <string name="navigation_drawer_open">فتح القائمة الجانبية</string>
+    <string name="navigation_drawer_close">إغلاق القائمة الجانبية</string>
+    <string name="nav_header_title">مزاج الغيوم</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">رأس التنقل</string>
+    <string name="action_settings">الإعدادات</string>
+
+    <string name="menu_alert">تنبيه</string>
+    <string name="menu_favourite">المفضلة</string>
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery" />
+    <string name="menu_slideshow" />
+    <string name="menu_settings">الإعدادات</string>
+    <string name="pressure">الضغط</string>
+    <string name="humidity">الرطوبة</string>
+
+    <string name="temperature">درجة الحرارة</string>
+    <string name="kelvin">كلفن</string>
+    <string name="celsius">سيلسيوس</string>
+    <string name="fahrenheit">فهرنهايت</string>
+
+    <string name="language">اللغة</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الإنجليزية</string>
+
+    <string name="location">الموقع</string>
+    <string name="map">الخريطة</string>
+    <string name="gps">نظام تحديد المواقع</string>
+
+    <string name="notification">الإشعارات</string>
+    <string name="enabled">مفعل</string>
+    <string name="disabled">معطل</string>
+
+    <string name="wind_speed">سرعة الرياح</string>
+    <string name="mile_hour">ميل/ساعة</string>
+    <string name="meter_sec">متر/ثانية</string>
+    <string name="city_name">اسم المدينة</string>
+    <string name="clear_sky">سماء صافية</string>
+    <string name="get_location">الحصول على الموقع</string>
+    <string name="cairo">القاهرة</string>
+    <string name="monday">الاثنين</string>
+    <string name="rain_showers">زخات مطر</string>
+    <string name="weatherapp_would_like_to_access_your_location">تطبيق الطقس يرغب في الوصول إلى موقعك</string>
+    <string name="location_is_used_to_provide_local_weather_info_this_can_be_changed_in_settings">يُستخدم الموقع لتوفير معلومات الطقس المحلية. يمكن تغييره في الإعدادات.</string>
+    <string name="manual">يدوي</string>
+    <string name="gps_">نظام تحديد المواقع</string>
+    <string name="youoffline">أنت غير متصل بالإنترنت</string>
+    <string name="unknown">غير معروف</string>
+    <string name="GPSpermissiongranted">تم منح إذن نظام تحديد المواقع</string>
+    <string name="GPSpermissiondenied">تم رفض إذن نظام تحديد المواقع</string>
+    <string name="UpdatinglocationfromGPS">تحديث الموقع من نظام تحديد المواقع</string>
+    <string name="Location">الموقع</string>
+    <string name="Failedtogetlocation">فشل في الحصول على الموقع</string>
+    <string name="Locationunavailable">الموقع غير متاح</string>
+    <string name="home">الرئيسية</string>
+    <string name="favourite">المفضلة</string>
+    <string name="alert">تنبيه</string>
+    <string name="settings">الإعدادات</string>
+    <string name="Errorgettinglocation">خطا في تحديد الموقع</string>
+
+    <!-- Temperature options -->
+    <string-array name="temperature_options">
+        <item>كلفن</item>
+        <item>سيلسيوس</item>
+        <item>فهرنهايت</item>
+    </string-array>
+
+    <!-- Language options -->
+    <string-array name="language_options">
+        <item>العربية</item>
+        <item>الإنجليزية</item>
+    </string-array>
+
+    <!-- Location options -->
+    <string-array name="location_options">
+        <item>الخريطة</item>
+        <item>نظام تحديد المواقع</item>
+    </string-array>
+
+    <!-- Notification options -->
+    <string-array name="notification_options">
+        <item>مفعل</item>
+        <item>معطل</item>
+    </string-array>
+
+    <!-- Wind speed options -->
+    <string-array name="wind_speed_options">
+        <item>ميل/ساعة</item>
+        <item>متر/ثانية</item>
+    </string-array>
+
+</resources>
